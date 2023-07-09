@@ -11,3 +11,11 @@ c is important to build programming skills
 C covers basic features of all programming language
 Campuss recruitement process
 C ix the most popular language for hardware dependent programming.
+
+
+HISTORY OF C LANGUAGE
+1. MARTIN RICHARDS-> Developer of BCPL
+   Basic Combined Programming Language in 1966.
+2. KEN (keeneth Lane) Thampson: Developer of B language in 1969
+ . Also Developer of UNIX oprating System.
+ . He also developed first master level chess called Belle in 1980.
