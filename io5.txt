@@ -6,3 +6,8 @@ Major part of Web  browser is written in c
 Ex-: google , chrome
 Unix opreating system is developed in c
 c is world's most popular programming language
+=> For studenta:
+c is important to build programming skills
+C covers basic features of all programming language
+Campuss recruitement process
+C ix the most popular language for hardware dependent programming.
