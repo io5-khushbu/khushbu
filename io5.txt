@@ -4,3 +4,5 @@ My sql is written in c
 Almost every device driver is wriiten in c
 Major part of Web  browser is written in c
 Ex-: google , chrome
+Unix opreating system is developed in c
+c is world's most popular programming language
