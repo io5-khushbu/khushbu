@@ -19,3 +19,7 @@ HISTORY OF C LANGUAGE
 2. KEN (keeneth Lane) Thampson: Developer of B language in 1969
  . Also Developer of UNIX oprating System.
  . He also developed first master level chess called Belle in 1980.
+( UNIX- Uniplexed infomantion computing system)
+3. Dennis Ritchie: Developer of c language in 1972
+. At & T's Bell Laboratories, USA
+. Co- developer of UNIX oprating system
