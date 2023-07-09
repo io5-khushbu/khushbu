@@ -1,1 +1,2 @@
 this is copy computer
+orcale is written in c
