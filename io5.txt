@@ -1,3 +1,4 @@
 this is copy computer
 orcale is written in c
 My sql is written in c
+Almost every device driver is wriiten in c
