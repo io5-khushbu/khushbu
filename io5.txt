@@ -2,3 +2,5 @@ this is copy computer
 orcale is written in c
 My sql is written in c
 Almost every device driver is wriiten in c
+Major part of Web  browser is written in c
+Ex-: google , chrome
