@@ -23,3 +23,12 @@ HISTORY OF C LANGUAGE
 3. Dennis Ritchie: Developer of c language in 1972
 . At & T's Bell Laboratories, USA
 . Co- developer of UNIX oprating system
+
+
+2. FUNDAMENTAL TERMINOLOGIES
+  
+ What is computer?
+=> Computer is an electornic device that takes input, processit ang give output.
+ 
+Memory Storage stored
+
